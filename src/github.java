@@ -5,7 +5,7 @@ public class github {
 		// TODO Auto-generated method stub
 		System.out.println("1º DAM B");
 		String nombre = "Darío Pérez";
-		System.out.println(nombre);
+		System.out.println(nombre);	
  
 	}
 
